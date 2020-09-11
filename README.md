@@ -1,2 +1,2 @@
-# raghuramkorukonda.github.io
-Personal Website
+# blog
+ 
